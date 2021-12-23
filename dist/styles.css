@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
+.navtop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbtm{
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
